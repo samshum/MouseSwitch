@@ -1,0 +1,4 @@
+# MouseSwitch
+
+设置Windows的鼠标滚轮的使用习惯，控制页面上下直接滚动或滚动条上下移动。
+如果您用开MACOS，在windows里通过MouseSwitch来切换成MACOS的使用习惯会非常地方便。
